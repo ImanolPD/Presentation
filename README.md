@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 ## A passionate developer from Spain
 
-- 🌱 I’m currently learning **frontend & backend**
+- 🌱 Currently working on **mobile app development** skills
 - 📫 How to reach me: imanol.perez.d@gmail.com
 
 ## Connect with me (in progress):

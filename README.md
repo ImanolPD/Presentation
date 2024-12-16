@@ -4,11 +4,6 @@
 - 🌱 Currently working on **mobile app development** skills
 - 📫 How to reach me: imanol.perez.d@gmail.com
 
-## Connect with me (in progress):
-<a href="https://www.linkedin.com/in/imanol-p%C3%A9rez-d%C3%ADaz-6b8a27291/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" width="70px"/>
-</a>
-
 ## Technologies
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="90px">

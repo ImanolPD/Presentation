@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 ## A passionate developer from Spain
 
-- 🌱 Currently working on **mobile app development** skills
+- 🌱 Currently working on **web app development** skills
 - 📫 How to reach me: imanol.perez.d@gmail.com
 
 ## Technologies
